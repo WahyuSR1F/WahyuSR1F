@@ -1,11 +1,10 @@
+<h1>About Me</h1>
 <div>
 <img src="https://wallpaperaccess.com/full/6155378.jpg" width="500" align="right" />
 <br/>
 <img src="https://1.bp.blogspot.com/-utPH-9X6tug/YEuebK_1API/AAAAAAAAHTo/ZFrPcw8EBZMryPczME6nmCBGNM86s_DoACPcBGAsYHg/w919/shiraori-so-im-a-spider-so-what-uhdpaper.com-4K-7.3294-wp.thumbnail.jpg" width="200" />
 <br/>
 <br/>
-ABOUT ME
-===
   
 - Name **Wahyu Sahri Rhamadahn**
 
