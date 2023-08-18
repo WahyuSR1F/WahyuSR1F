@@ -1,26 +1,26 @@
 <div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
+<img src="https://wallpaperaccess.com/full/6155378.jpg" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src="https://1.bp.blogspot.com/-utPH-9X6tug/YEuebK_1API/AAAAAAAAHTo/ZFrPcw8EBZMryPczME6nmCBGNM86s_DoACPcBGAsYHg/w919/shiraori-so-im-a-spider-so-what-uhdpaper.com-4K-7.3294-wp.thumbnail.jpg" width="500" />
 <br/>
 <br/>
-  
-- Name **Reidho Satria**
+**About Me** 
+- Name **Wahyu Sahri Rhamadahn**
 
-- Live in **Palembang, Indonesia**
+- Live in **Mojokerto, East Java Indonesia**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***Software Enginer/ Teknologi Rekayasa Perangkat Lunak***](https://poliwangi.ac.id/)
 
-- Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
+- Good with **HTML** , **CSS** , **PHP** , **MYSQL** , **POSTGRE SQL** , **LARAVEL**, **fLUTTER**, **Network Administrattor** and **JAVA**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
+- Familiar with **Debian**, **Ubuntu**, **Windows""
 
-- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+- Understand Japan (Pasif), Bahasa Indonesia (Active), and English (normal)
+<img src="https://wallpaperaccess.com/full/6155340.jpg" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+<img src="https://wallpaperaccess.com/full/6155355.png" width="500" />
 <br/>
 <br/>
   
@@ -34,10 +34,8 @@
   A discord selfbot designed to bumping disboard.org every 2 hours.
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="https://wallpaperaccess.com/full/6155379.jpg" width="500" /><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
-<!--
-<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
--->
+
 </div>
