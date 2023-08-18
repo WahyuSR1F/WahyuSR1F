@@ -4,8 +4,6 @@
 <img src="https://1.bp.blogspot.com/-utPH-9X6tug/YEuebK_1API/AAAAAAAAHTo/ZFrPcw8EBZMryPczME6nmCBGNM86s_DoACPcBGAsYHg/w919/shiraori-so-im-a-spider-so-what-uhdpaper.com-4K-7.3294-wp.thumbnail.jpg" width="500" />
 <br/>
 <br/>
-  
-**About Me** 
 
 - Name **Wahyu Sahri Rhamadahn**
 
