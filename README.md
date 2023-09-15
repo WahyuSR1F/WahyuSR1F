@@ -54,6 +54,5 @@
 <a href="www.linkedin.com/in/wahyu-sahri-rhamadhan"><img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/></a>
 <a href="https://www.instagram.com/sahri_cy/?hl=en"><img src="https://img.shields.io/badge/-@sahricy/logo-instagram-blue?logo=instagram"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-wahyusahrirhamadhan/logo-facebook-blue?logo=facebook"/></a>
-<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/--?style=flat&logo=youtube&label=CodingNgap&labelColor=rgb(204%2C%200%2C%200)&color=red
-"/></a>
+<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/--%20?style=flat&logo=youtube&label=CodingNgap&labelColor=%23cc0000&color=red"/></a>
 </p>
