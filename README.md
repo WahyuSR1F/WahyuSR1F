@@ -1,4 +1,4 @@
-![Wahyu Sahri Rhamadhan](https://getwallpapers.com/wallpaper/full/c/d/9/15182.jpg)
+![Wahyu Sahri Rhamadhan](https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/promo-facebook_62139831.png)
 
 <img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/icons8-student-64.png" width='40' align="left"/><h2>Hai I Am  Wahyu Sahri Rhamadhan</h2>
 
