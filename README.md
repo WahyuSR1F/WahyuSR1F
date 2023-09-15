@@ -15,11 +15,12 @@
 
 
 <img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/47tj.gif" width='70' align="left"/>
-<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
-<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
-<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='65' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/2iFb.gif" width='68' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/2eSh.gif" width='30' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/BHAH.gif" width='35' align="left"/>
 
-<br /> <br />
+<br /> <br /> <br /> 
 
 
 ### 🛠 &nbsp;Tech Stack
