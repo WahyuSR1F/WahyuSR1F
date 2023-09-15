@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at sahri2827@gmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/47tj.gif" width='40' align="left"/><h2>Hai I Am  Wahyu Sahri Rhamadhan</h2>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/47tj.gif" width='70' align="left"/>
 
 
 ### 🛠 &nbsp;Tech Stack
