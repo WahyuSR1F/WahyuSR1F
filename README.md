@@ -15,7 +15,9 @@
 
 
 <img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/47tj.gif" width='70' align="left"/>
-<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/47tj.gif" width='70' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
+<img alt="Code With Me" src="https://raw.githubusercontent.com/WahyuSR1F/WahyuSR1F/main/img/XZ5P.gif" width='70' align="left"/>
 
 <br /> <br />
 
