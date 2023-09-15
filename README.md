@@ -51,8 +51,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/wahyu-sahri-rhamadhan"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sahri_cy/?hl=en"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="www.linkedin.com/in/wahyu-sahri-rhamadhan"><img src="https://img.shields.io/badge/-wahyu20%sahri20%rhamadhan/logo-linkedin-blue?logo=linkedin"/></a>
+<a href="https://www.instagram.com/sahri_cy/?hl=en"><img src="https://img.shields.io/badge/-@sahricy/logo-instagram-blue?logo=instagram"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-wahyusahrirhamadhan/logo-facebook-blue?logo=facebook"/></a>
+<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/-CodingNgap?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
