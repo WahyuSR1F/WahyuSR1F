@@ -1,6 +1,6 @@
 ![Wahyu Sahri Rhamadhan](https://getwallpapers.com/wallpaper/full/c/d/9/15182.jpg)
 
-<img alt="Code With Me" src="https://tenor.com/id/view/coding-gif-24297652" width='40' align="left"/><h2>Hai I Am  Wahyu Sahri Rhamadhan</h2>
+<img alt="Code With Me" src="https://icons8.com/icon/KNrkx7HDKAip/student" width='40' align="left"/><h2>Hai I Am  Wahyu Sahri Rhamadhan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
