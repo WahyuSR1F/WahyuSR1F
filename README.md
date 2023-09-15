@@ -51,8 +51,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/wahyu-sahri-rhamadhan"><img src="https://img.shields.io/badge/-wahyu20%sahri20%rhamadhan/logo-linkedin-blue?logo=linkedin"/></a>
+<a href="www.linkedin.com/in/wahyu-sahri-rhamadhan"><img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/></a>
 <a href="https://www.instagram.com/sahri_cy/?hl=en"><img src="https://img.shields.io/badge/-@sahricy/logo-instagram-blue?logo=instagram"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-wahyusahrirhamadhan/logo-facebook-blue?logo=facebook"/></a>
-<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/-CodingNgap?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/:badgeContent?style=flat&logo=youtube&label=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCbGeFpOR79Hz_JGC-kEa8pg&labelColor=%23cc0000&color=%23ffe6e6
+"/></a>
 </p>
