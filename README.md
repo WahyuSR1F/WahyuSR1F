@@ -28,8 +28,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -42,6 +40,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHP](https://img.shields.io/badge/--%20php?style=flat&logo=php&logoColor=white&label=PHP%20Programing&labelColor=blue&color=31BAD2)&nbsp;
+![laravel](https://img.shields.io/badge/--%20php?style=flat&logo=laravel&logoColor=white&label=Laravel%20Framewrok&labelColor=%23AA1128&color=red)&nbsp;
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -60,4 +62,4 @@
 <a href="https://www.youtube.com/channel/UCbGeFpOR79Hz_JGC-kEa8pg"><img src="https://img.shields.io/badge/--%20?style=flat&logo=youtube&label=CodingNgap&labelColor=%23cc0000&color=red"/></a>
 </p>
 
-### Thanks Very, Nice to Meet You
+### Thanks Very Much, Nice to Meet You
