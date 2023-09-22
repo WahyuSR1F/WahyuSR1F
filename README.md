@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and make project to solved of problem.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Banyuwangi polytecnic state.\
+🎓 &nbsp;I'm currently studying Software Engineering Technology at the Banyuwangi polytecnic state.\
 🌱 &nbsp;I'm on track for learning more about backend developer, Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Digital Draw and Editor Video.\
 💬 &nbsp;I am like discussion problem solving in IT, I will be a profesional programer to can make aplication, there can use everyone and can give enjoy end fast run.\
